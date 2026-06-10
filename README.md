@@ -1,6 +1,6 @@
 # Shop POS System
 
-A desktop Point of Sale (POS) application built for a real electronics retail business operating multiple branches. It handles the full sales workflow — building an order, applying discounts and VAT, taking payment, and printing a receipt — and gives staff an end-of-day sales report.
+A desktop Point of Sale (POS) application built for a real electronics retail business operating multiple branches. It handles the full sales workflow building an order, applying discounts and VAT, taking payment, and printing a receipt and gives staff an end-of-day sales report.
 
 The application is **deployed as a standalone desktop app** and is **configurable per branch**: each shop runs the same software, with only its own name, branch details and product list changed through configuration, rather than maintaining a separate codebase for every location.
 
