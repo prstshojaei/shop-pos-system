@@ -7,6 +7,18 @@ The application is **deployed as a standalone desktop app** and is **configurabl
 Built with Python and PySide6 (Qt), with a local SQLite database.
 
 ---
+## Screenshots
+
+### Main POS Screen
+![Main POS screen](screenshots/pos-main-screen.png)
+
+### Receipt
+![Receipt](screenshots/receipt-clean.png)
+
+### End-of-Day Report
+![End-of-day report](screenshots/end-of-day-report.png)
+
+---
 
 ## Features
 
